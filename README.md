@@ -104,13 +104,8 @@ Automate real-time order status notifications to alleviate customer anxiety.
 <img width="1340" height="734" alt="image" src="https://github.com/user-attachments/assets/f736369a-c468-4f9d-a97d-ac64e88d74df" />
 
 ## 💡 Action Strategies (Recommendations)
-Stakeholder,Strategy,Insight,Recommendation
-Manager, Revenue Protection: "$2.34 billion in revenue is 'on hold' due to 30% of orders being delayed." Increase OTD target to 90% by prioritizing processing of high-value delayed orders.
+<img width="773" height="472" alt="image" src="https://github.com/user-attachments/assets/9be2d4a6-44f7-4502-bff6-bad717e443f3" />
 
-Operations, Warehouse Process Optimization: Preparation time (4.5 days) is too long. Improve Picking & Packing process to reduce preparation time to < 3 days.
-
-Logistics, Hotspot Management: Istanbul has 0.5M delayed orders (highest in the system). Strengthen the inner-city delivery team and transit stations in Istanbul.
-Customer Service, Reduce Churn Rate: 78K existing customers are a valuable asset. Implement an "Apology" program: Offer vouchers to customer groups with more than 20 delayed orders.
 
 ## 📂 Project Structure
 CRM_3A_Superstore.ipynb: Python code for data processing (Cleaning & Chunking).
