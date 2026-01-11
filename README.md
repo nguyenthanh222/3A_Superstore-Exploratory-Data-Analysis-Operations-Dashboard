@@ -12,7 +12,7 @@ Power BI: DAX, Data Modeling, ETL, Interactive Visualization.
 SQL: CTEs, Joins, Case, Data Cleaning scripts.
 
 # 🚀 Executive Summary
-## This transaction data analysis project for 3A Retail Supermarket in Türkiye aims to find the relationship between revenue, customer behavior, and warehouse operational performance. Using data from over 50,000 live transactions, the analysis assists Management in:
+This transaction data analysis project for 3A Retail Supermarket in Türkiye aims to find the relationship between revenue, customer behavior, and warehouse operational performance. Using data from over 50,000 live transactions, the analysis assists Management in:
 
   Identifying product categories and contributing signals to the business.
 
