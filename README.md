@@ -17,6 +17,7 @@ SQL: CTEs, Joins, Case, Data Cleaning scripts.
 > **Note:** Due to the large scale of the dataset (+10M rows), the `.pbix` file exceeds 1GB and cannot be hosted directly on GitHub.
 
 * **📥 [Download .PBIX File]**: [https://drive.google.com/file/d/1C0_HoNeHWfYko8Ju8C4GSDmH1gGO4wjd/view?usp=sharing] 
+
 This transaction data analysis project for 3A Retail Supermarket in Türkiye aims to find the relationship between revenue, customer behavior, and warehouse operational performance. Using data from over 50,000 live transactions, the analysis assists Management in:
 
   Identifying product categories and contributing signals to the business.
